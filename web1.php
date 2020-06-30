@@ -1,4 +1,4 @@
-<br />
+<br /
 <pre>
 <?php
 print `ifconfig`;
