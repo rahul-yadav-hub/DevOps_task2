@@ -1,6 +1,6 @@
 <br />
 <pre>
-<?p
+<php
 print `ifconfig`;
 ?>
 <pre[D[D[D/pre>
